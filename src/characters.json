@@ -6,6 +6,62 @@
     },
     {
         "id": 2,
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+        "image": "./images/Bran.png"
+    },
+    {
+        "id": 3,
+        "image": "./images/Brienne.png"
+    },
+    {
+        "id": 4,
+        "image": "./images/Tyrion.png"
+    },
+    {
+        "id": 5,
+        "image": "./images/Jaime.png"
+    },
+    {
+        "id": 6,
+        "image": "./images/Bronn.png"
+    },
+    {
+        "id": 7,
+        "image": "./images/Tormund.png"
+    },
+    {
+        "id": 8,
+        "image": "./images/Sansa.png"
+    },
+    {
+        "id": 9,
+        "image": "./images/Davos.png"
+    },
+    {
+        "id": 10,
+        "image": "./images/Cersei.png"
+    },
+    {
+        "id": 11,
+        "image": "./images/Hound.png"
+    },
+    {
+        "id": 12,
+        "image": "./images/Jon.png"
+    },
+    {
+        "id": 13,
+        "image": "./images/Daenerys.png"
+    },
+    {
+        "id": 14,
+        "image": "./images/Podrick.png"
+    },
+    {
+        "id": 15,
+        "image": "./images/Jorah.png"
+    },
+    {
+        "id": 16,
+        "image": "./images/Oberyn.png"
     }
 ]
